@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<rss version="2.0">
+<channel>
+<title>Домен без HTTP!</title>
+<link>http://Домен без HTTP/</link>
+<description>RSS канал новостей Домен без HTTP</description>
+<image>
+	<url>http://Домен без HTTP/images/88x31.gif</url>
+	<title>Домен без HTTP</title>
+	<link>http://Домен без HTTP/</link>
+	<width>88</width>
+	<height>31</height>
+</image>
+<pubDate>Thu, 23 Nov 2017 21:52:51 +0200</pubDate>
+<item>
+<title>456456456</title>
+<link>http://Домен без HTTP/news/?id=2</link>
+<description>вапвпрвпрвар...</description>
+<pubDate>Thu, 23 Nov 2017 12:00:00 +0200</pubDate>
+</item>
+</channel>
+</rss>
